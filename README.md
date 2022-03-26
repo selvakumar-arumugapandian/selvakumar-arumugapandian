@@ -19,12 +19,12 @@ I have a knowledge and skill in the following process & technologies.
 
 |Company|Joined On|Exited On|
 |-------|---------|---------|
-|Accenture| 10-Jan-2022 | **`Currently Working`**|
-|Cognizant| 20-Apr-2021| 07-Jan-2022|
-|Edgeverve Systems Limited | 11-Aug-2016| 13-Apr-2021|
-|Infosys Limited| 07-Feb-2011 | 10-Aug-2016|
+|`Accenture Technology`| 10-Jan-2022 | **`Currently Working`**|
+|`Cognizant Technology Solutions`| 20-Apr-2021| 07-Jan-2022|
+|`Edgeverve Systems Limited` | 11-Aug-2016| 13-Apr-2021|
+|`Infosys Limited`| 07-Feb-2011 | 10-Aug-2016|
 
-** Co-Founder `Vidhai Enterprise` which was establised on 14-Apr-2021 and shutdown on 28-Feb-2022. **
+** Co-Founder `Vidhai Enterprise` which was establised on 14-Apr-2021 and was shutdown on 31-Jan-2022. **
 
 ## Let's Connect
 
