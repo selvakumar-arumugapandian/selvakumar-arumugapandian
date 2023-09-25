@@ -31,6 +31,5 @@ I have a knowledge and skill in the following process & technologies.
 |Network|
 |-------|
 |[Blog](https://selvakumar-arumugapandian.medium.com/)|
-|[Instagram](https://www.instagram.com/selvakumar.arumugapandian)|
 |[LinkedIN](https://www.linkedin.com/in/selva-kumar-arumugapandian/)|
-[Twitter](https://twitter.com/ASKselvasecret)|
+[Portfolio](https://www.selvakumararumugapandian.co.in/)|
